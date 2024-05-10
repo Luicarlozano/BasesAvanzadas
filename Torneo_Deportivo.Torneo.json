@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "663d81d1c8e0d87c3d7272ff"
+  },
+  "Nombre": "Champios",
+  "Equipos": {
+    "Nombre": "Atletico de Madrid"
+  },
+  "Estadisticas": {
+    "Partidos Jugados": 50,
+    "Edicion": 5
+  },
+  "Fecha de Inicio": "01/04/2024",
+  "Fecha de Finalización": ""
+}]
