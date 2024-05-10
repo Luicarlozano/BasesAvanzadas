@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "663d7e89c8e0d87c3d7272f0"
+  },
+  "Nombre": "Cancha quinta esquina",
+  "Lugar": "Medellin",
+  "Tipo de Estadio": "Futbol 5",
+  "Capacidad Publico": "40 Personas"
+},
+{
+  "_id": {
+    "$oid": "663d7e89c8e0d87c3d7272f1"
+  },
+  "Nombre": "Cancha 2",
+  "Lugar": "Bogota",
+  "Tipo de Estadio": "Futbol 5",
+  "Capacidad Publico": "60 Personas"
+},
+{
+  "_id": {
+    "$oid": "663d7e89c8e0d87c3d7272f2"
+  },
+  "Nombre": "Cancha El sueño",
+  "Lugar": "Bucaramanga",
+  "Tipo de Estadio": "Futbol 5",
+  "Capacidad Publico": "100 Personas"
+},
+{
+  "_id": {
+    "$oid": "663d7e89c8e0d87c3d7272f3"
+  },
+  "Nombre": "Cancha La Esquina",
+  "Lugar": "Barranquilla",
+  "Tipo de Estadio": "Futbol 5",
+  "Capacidad Publico": "80 Personas"
+},
+{
+  "_id": {
+    "$oid": "663d7e89c8e0d87c3d7272f4"
+  },
+  "Nombre": "Cancha El traste",
+  "Lugar": "Cali",
+  "Tipo de Estadio": "Futbol 5",
+  "Capacidad Publico": "50 Personas"
+},
+{
+  "_id": {
+    "$oid": "663d7e89c8e0d87c3d7272f5"
+  },
+  "Nombre": "Cancha la Quinta",
+  "Lugar": "Pereira",
+  "Tipo de Estadio": "Futbol 5",
+  "Capacidad Publico": "50 Personas"
+}]

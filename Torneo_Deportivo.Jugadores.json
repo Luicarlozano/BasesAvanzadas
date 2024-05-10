@@ -1,0 +1,74 @@
+[{
+  "_id": {
+    "$oid": "663d771ac8e0d87c3d7272d7"
+  },
+  "Nombre": "Juan Camilo Castro",
+  "Numero": 5,
+  "Equipo": "Real Sociedad",
+  "Posicion": "Arquero",
+  "Edad": 22,
+  "Estadisticas": {
+    "Goles en contra": 5,
+    "Tiempo de Juego": "55 minutos"
+  }
+},
+{
+  "_id": {
+    "$oid": "663d771ac8e0d87c3d7272d8"
+  },
+  "Nombre": "Jaime Armando Cardenas",
+  "Numero": 7,
+  "Equipo": "Barcelona",
+  "Posicion": "Defensa",
+  "Edad": 25,
+  "Estadisticas": {
+    "Goles marcados": 2,
+    "Tiempo de Juego": "75 minutos",
+    "Faltas": 10
+  }
+},
+{
+  "_id": {
+    "$oid": "663d771ac8e0d87c3d7272d9"
+  },
+  "Nombre": "Camilo Juarez",
+  "Numero": 10,
+  "Equipo": "Atletico Madrid",
+  "Posicion": "Volante",
+  "Edad": 28,
+  "Estadisticas": {
+    "Goles marcados": 1,
+    "Tiempo de Juego": "85 minutos",
+    "Faltas": 2
+  }
+},
+{
+  "_id": {
+    "$oid": "663d771ac8e0d87c3d7272da"
+  },
+  "Nombre": "David Martinez",
+  "Numero": 6,
+  "Equipo": "REal Madrid",
+  "Posicion": "Delantero",
+  "Edad": 29,
+  "Estadisticas": {
+    "Goles marcados": 18,
+    "Tiempo de Juego": "68 minutos",
+    "Faltas": 1
+  }
+},
+{
+  "_id": {
+    "$oid": "663d771ac8e0d87c3d7272db"
+  },
+  "Nombre": "Diego Fernandez",
+  "Numero": 15,
+  "Equipo": "Levante",
+  "Posicion": "Volante",
+  "Edad": 26,
+  "Estadisticas": {
+    "Goles marcados": 1,
+    "Tiempo de Juego": "59 minutos",
+    "Faltas": 12
+  }
+}]

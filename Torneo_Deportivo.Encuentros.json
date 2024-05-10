@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "663d8044c8e0d87c3d7272f8"
+  },
+  "Equipos": {
+    "Local": "Real Sociedad",
+    "Visitante": "Barcelona"
+  },
+  "Resultado": {
+    "Local": 2,
+    "Visitante": 1
+  },
+  "fecha": "05/04/2024"
+},
+{
+  "_id": {
+    "$oid": "663d8044c8e0d87c3d7272f9"
+  },
+  "Equipos": {
+    "Local": "Real Sociedad",
+    "Visitante": "Levante"
+  },
+  "Resultado": {
+    "Local": 1,
+    "Visitante": 1
+  },
+  "fecha": "10/04/2024"
+},
+{
+  "_id": {
+    "$oid": "663d8044c8e0d87c3d7272fa"
+  },
+  "Equipos": {
+    "Local": "Real Madrid",
+    "Visitante": "Atletico de Madrid"
+  },
+  "Resultado": {
+    "Local": 5,
+    "Visitante": 5
+  },
+  "fecha": "10/04/2024"
+},
+{
+  "_id": {
+    "$oid": "663d8044c8e0d87c3d7272fb"
+  },
+  "Equipos": {
+    "Local": "Barcelona",
+    "Visitante": "Atletico de Madrid"
+  },
+  "Resultado": {
+    "Local": 3,
+    "Visitante": 2
+  },
+  "fecha": "20/04/2024"
+},
+{
+  "_id": {
+    "$oid": "663d8044c8e0d87c3d7272fc"
+  },
+  "Equipos": {
+    "Local": "Levante",
+    "Visitante": "Real Madrid"
+  },
+  "Resultado": {
+    "Local": 0,
+    "Visitante": 2
+  },
+  "fecha": "20/04/2024"
+}]

@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "663d79efc8e0d87c3d7272e0"
+  },
+  "Nombre_Equipo": "Real Sociedad",
+  "Cantidad_Judadores": 7,
+  "Estadistica": {
+    "Partidos_Ganados": 2,
+    "Partidos_Perdidos": 1,
+    "Partidos_Empatados": 6
+  },
+  "Campeonato": "Champions",
+  "Posicion": 1
+},
+{
+  "_id": {
+    "$oid": "663d79efc8e0d87c3d7272e1"
+  },
+  "Nombre_Equipo": "Barcelona",
+  "Cantidad_Judadores": 7,
+  "Estadistica": {
+    "Partidos_Ganados": 1,
+    "Partidos_Perdidos": 4,
+    "Partidos_Empatados": 5
+  },
+  "Campeonato": "Champions",
+  "Posicion": 3
+},
+{
+  "_id": {
+    "$oid": "663d79efc8e0d87c3d7272e2"
+  },
+  "Nombre_Equipo": "Real Madrid",
+  "Cantidad_Judadores": 7,
+  "Estadistica": {
+    "Partidos_Ganados": 1,
+    "Partidos_Perdidos": 3,
+    "Partidos_Empatados": 6
+  },
+  "Campeonato": "Champions",
+  "Posicion": 2
+},
+{
+  "_id": {
+    "$oid": "663d79efc8e0d87c3d7272e3"
+  },
+  "Nombre_Equipo": "Atletico de Madrid",
+  "Cantidad_Judadores": 7,
+  "Estadistica": {
+    "Partidos_Ganados": 0,
+    "Partidos_Perdidos": 5,
+    "Partidos_Empatados": 5
+  },
+  "Campeonato": "Champions",
+  "Posicion": 4
+},
+{
+  "_id": {
+    "$oid": "663d79efc8e0d87c3d7272e4"
+  },
+  "Nombre_Equipo": "Levante",
+  "Cantidad_Judadores": 7,
+  "Estadistica": {
+    "Partidos_Ganados": 0,
+    "Partidos_Perdidos": 6,
+    "Partidos_Empatados": 4
+  },
+  "Campeonato": "Champions",
+  "Posicion": 5
+}]

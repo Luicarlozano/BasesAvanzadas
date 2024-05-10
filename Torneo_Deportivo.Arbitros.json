@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "663d7d02c8e0d87c3d7272e9"
+  },
+  "Nombre": "Pedro Mendoza",
+  "Partidos Arbitrados": 2,
+  "Años de Experiencia": 5,
+  "Campeonato": "Champions",
+  "Sexo": "Masculino"
+},
+{
+  "_id": {
+    "$oid": "663d7d02c8e0d87c3d7272ea"
+  },
+  "Nombre": "Daniela Vargas",
+  "Partidos Arbitrados": 4,
+  "Años de Experiencia": 3,
+  "Campeonato": "Champions",
+  "Sexo": "Femenino"
+},
+{
+  "_id": {
+    "$oid": "663d7d02c8e0d87c3d7272eb"
+  },
+  "Nombre": "Jairo Hernandez",
+  "Partidos Arbitrados": 1,
+  "Años de Experiencia": 2,
+  "Campeonato": "Champions",
+  "Sexo": "Masculino"
+},
+{
+  "_id": {
+    "$oid": "663d7d02c8e0d87c3d7272ec"
+  },
+  "Nombre": "Enrique Zambrano",
+  "Partidos Arbitrados": 5,
+  "Años de Experiencia": 6,
+  "Campeonato": "Champions",
+  "Sexo": "Masculino"
+},
+{
+  "_id": {
+    "$oid": "663d7d02c8e0d87c3d7272ed"
+  },
+  "Nombre": "Dayana Pineda",
+  "Partidos Arbitrados": 4,
+  "Años de Experiencia": 5,
+  "Campeonato": "Champions",
+  "Sexo": "Femenino"
+}]
